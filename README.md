@@ -7,22 +7,22 @@ Welcome to my Data Science Portfolio! This repository showcases a collection of 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Orange](https://img.shields.io/badge/orange-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=orange)
+
 
 ## Table of Contents
 
-- [Project 1: Chat Analysis of WhatsApp messages](https://github.com/Sahishnuta/Machine_Learning-projects/tree/main/Chat_Analysis)
-- [Project 2: Higgs Boson Analytics](https://github.com/Sahishnuta/Machine_Learning-projects/tree/main/Higgs_Boson_Analytics)
+- [Project 1: California Fire Incidents](https://github.com/Sahishnuta/Projects_using_diff_data_science_tools/tree/main/California_Fire_Incidents)
+- [Project 2: Car Accidents](https://github.com/Sahishnuta/Projects_using_diff_data_science_tools/tree/main/Car_crash)
 
 
 ---
-## [Project 1: Chat Analysis of WhatsApp messages](https://github.com/Sahishnuta/Machine_Learning-projects/tree/main/Chat_Analysis)
+## [Project 1: California Fire Incidents](https://github.com/Sahishnuta/Projects_using_diff_data_science_tools/tree/main/California_Fire_Incidents)
 
-California is one of the places having the most deadliest and destructive wildfire seasons :fire: :fire:. The dataset contains the list of Wildfires that has occurred in California between 2013 and 2020. The dataset contains the location where wildfires have occurred including the County name, latitude and longitude values and also details on when the wildfire has started. 
+California is one of the places having the deadliest and most destructive wildfire seasons :fire: :fire:. The dataset contains the list of Wildfires in California between 2013 and 2020. The dataset contains the location where wildfires have occurred including the County name, latitude and longitude values and also details on when the wildfire has started. 
 
 This data helps to generate insights on what locations in California are under fire threat, what time do Wildfires usually occur and how frequent and devastating they are!!
 
-## [Project 2: Classification of the Higgs Bosons](https://github.com/Sahishnuta/Machine_Learning-projects/tree/main/Higgs_Boson_Analytics)
+## [Project 2: Car Accidents](https://github.com/Sahishnuta/Projects_using_diff_data_science_tools/tree/main/Car_crash)
 
 We have data set of Car crash :red_car: :blue_car:, weather :sun_with_face: :sun_behind_small_cloud::cloud_with_snow: and holidays :fireworks::confetti_ball:. So, our task is to classify the data based on Severity.
 
